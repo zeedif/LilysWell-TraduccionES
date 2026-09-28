@@ -25,23 +25,25 @@ Todos los finales y logros de Lily's Well, en el orden en que te encuentras cada
 
 **Habitación de Lily**
 - **RECOGE** las **sábanas** de la cama (componente **bueno**).
-- **RECOGE** el **ovillo**. Sin tejer cuenta como componente **malo**; en el salón lo convertirás en la **cuerda trenzada** (buena).
 - **ABRE** el armario para poder cambiar el atuendo de Lily en cualquier momento (ver «Disfraces»).
 
-<img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/1834870/81b8d00e38a22d6f10545f14305c2c2b8a7d3a70.jpg" alt="Don't Look Up" style="height:40px;width:40px;vertical-align:middle;margin-right:8px;border-radius:6px;"> **🔵 LOGRO: Don't Look Up** — Baja al pozo con una cuerda de **1** componente bueno: solo las sábanas, sin el ovillo.
+<img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/1834870/81b8d00e38a22d6f10545f14305c2c2b8a7d3a70.jpg" alt="Don't Look Up" style="height:40px;width:40px;vertical-align:middle;margin-right:8px;border-radius:6px;"> **🔵 LOGRO: Don't Look Up** — Baja al pozo con una cuerda de **1** componente bueno: solo las sábanas.
+
+- El **ovillo** es un componente **malo** mientras no lo tejas: cógelo solo para convertirlo en la **cuerda trenzada** con las agujas de punto del salón.
+
+**Baño** (se entra desde la habitación de Lily)
+- El **papel higiénico** junto al retrete es un componente **malo**: no lo lleves al pozo.
 
 **Salón**
+- En el sofá, un poco hacia el **centro/derecha**, está el **cargador perdido**: componente **malo**, no lo lleves al pozo.
+
+<img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/1834870/e60fafb78fd9ab843d61c7f06005cb9f09d20006.jpg" alt="Poor Construction" style="height:40px;width:40px;vertical-align:middle;margin-right:8px;border-radius:6px;"> **⚠️ LOGRO: Poor Construction** (Final alternativo "Mala artesanía") — Baja al pozo con **al menos un componente malo** (ovillo sin tejer, papel higiénico o cargador perdido). La cuerda se rompe y caes al instante.
+
 - **INTERACTÚA** con el respaldo del sofá por la parte **izquierda** y elige "Coger" para sacar las **agujas de punto**.
-- **INTERACTÚA** con el sofá un poco más hacia el **centro/derecha** para sacar el **cargador perdido** (componente **malo**).
+- **TEJE** la cuerda: con el ovillo y las agujas de punto en el inventario, abre "Objetos" y **USA** las agujas de punto. El ovillo se convierte en la **cuerda trenzada** (componente **bueno**); ovillo y cuerda trenzada ocupan el mismo hueco.
 - Fíjate en el **teléfono**: no lo vas a usar todavía, pero será la clave del Final Verdadero.
-- **TEJE** la cuerda: con el ovillo y las agujas de punto en el inventario, abre "Objetos" y **USA** las agujas de punto. El ovillo se convierte en la **cuerda trenzada** (componente **bueno**). Ovillo y cuerda trenzada ocupan el mismo hueco: nunca tienes los dos a la vez.
 
 <img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/1834870/964e8e61dc9de0124717da04b9e0380ce6830193.jpg" alt="Butterfingers" style="height:40px;width:40px;vertical-align:middle;margin-right:8px;border-radius:6px;"> **🔵 LOGRO: Butterfingers** — Baja al pozo con una cuerda de **2** componentes buenos (sábanas y cuerda trenzada, ninguno malo).
-
-**Baño**
-- **RECOGE** el **papel higiénico** junto al retrete (componente **malo**).
-
-<img src="https://shared.fastly.steamstatic.com/community_assets/images/apps/1834870/e60fafb78fd9ab843d61c7f06005cb9f09d20006.jpg" alt="Poor Construction" style="height:40px;width:40px;vertical-align:middle;margin-right:8px;border-radius:6px;"> **⚠️ LOGRO: Poor Construction** (Final alternativo "Mala artesanía") — Baja al pozo llevando **al menos un componente malo** (papel higiénico, cargador perdido u ovillo sin tejer). La cuerda se rompe y caes al instante.
 
 **Habitación de Papá** (se entra por el baño)
 - **ABRE** el cajón superior izquierdo del armario para conseguir los **cinturones de papá** (componente **bueno**).
@@ -248,7 +250,7 @@ Desde el armario de la habitación de Lily puedes cambiar su ropa; esto también
 ## 🟢 Secretos y curiosidades sin logro
 
 - **Final secreto "Stupid Idiot"** (añadido en la versión 1.1, sin logro asociado): recoge los 14 componentes que puedas llevar y **TÍRALOS todos** al cubo de basura de la Carretera. Lily terminará arrojándose ella misma dentro.
-- **Niebla roja y voz perturbadora:** al salir de la casa hay una probabilidad aleatoria de que la pantalla se cubra de una niebla rojiza mientras se oye una voz femenina inquietante de fondo.
+- **Niebla roja y voz perturbadora:** a partir de tu segunda muerte, cada vez que llegas a la entrada de la casa hay un 2,5 % de probabilidad (1 entre 40) de que la pantalla se cubra de una niebla rojiza con una voz femenina inquietante de fondo. Es solo ambiental: no da logro ni cambia nada, y desaparece al cambiar de pantalla.
 - **Huellas ensangrentadas:** tras leer en el buzón la carta sobre ataques de fauna salvaje a visitantes, puede aparecer un rastro de huellas de sangre en el camino entre la casa y la carretera.
 - **El gato del bosque:** tras coger la carne seca de la despensa, es posible encontrarte con un gato tranquilo en el bosque. Dale de comer la carne seca para una escena secreta.
 
