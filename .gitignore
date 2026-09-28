@@ -1,0 +1,65 @@
+# Only the files the translation changes are tracked - everything else is ignored
+/*
+!/.gitignore
+!/README.md
+
+# Database, events and texts (files the translation leaves untouched stay out)
+!/data/
+/data/Actors.json
+/data/Animations.json
+/data/Classes.json
+/data/Enemies.json
+/data/Map007.json
+/data/Map029.json
+/data/Map030.json
+/data/Map040.json
+/data/Map061.json
+/data/Map062.json
+/data/Map069.json
+/data/MapInfos.json
+/data/Skills.json
+/data/States.json
+/data/Tilesets.json
+/data/Troops.json
+
+# Font with Spanish glyphs
+!/fonts/
+/fonts/*
+!/fonts/manaspc.ttf
+!/fonts/traduccion
+
+# Plugin parameters and the plugins with translated texts
+!/js/
+/js/*
+!/js/plugins.js
+!/js/plugins/
+/js/plugins/*
+!/js/plugins/SRD_GameUpgrade.js
+!/js/plugins/TSR_Save.js
+!/js/plugins/TraduccionES.js
+
+# Images with text
+!/img/
+/img/*
+!/img/parallaxes/
+/img/parallaxes/*
+!/img/parallaxes/\!Closet*.rpgmvp
+!/img/parallaxes/\!College2f.rpgmvp
+!/img/parallaxes/\!Elevator1f.rpgmvp
+!/img/parallaxes/\!ElevatorB?.rpgmvp
+!/img/parallaxes/\!KeyHolder*.rpgmvp
+!/img/pictures/
+/img/pictures/*
+!/img/pictures/DeadEnd*.rpgmvp
+!/img/pictures/JokeEnd11.rpgmvp
+!/img/pictures/JokeEnd22.rpgmvp
+!/img/titles2/
+/img/titles2/*
+!/img/titles2/Splash_*.rpgmvp
+
+# Sound effect referenced by System.json but missing from the Steam build
+!/audio/
+/audio/*
+!/audio/se/
+/audio/se/*
+!/audio/se/Collapse1.rpgmvo
