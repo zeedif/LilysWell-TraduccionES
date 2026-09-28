@@ -2,6 +2,7 @@
 /*
 !/.gitignore
 !/README.md
+!/GUIA.md
 
 # Database, events and texts (files the translation leaves untouched stay out)
 !/data/

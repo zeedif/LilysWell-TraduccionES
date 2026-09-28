@@ -10,6 +10,10 @@ Copia todos los archivos de este repositorio dentro de `www` en tu instalación 
 ...\steamapps\common\Lily's Well\www
 ```
 
+## Guía
+
+[Guía paso a paso con todos los finales y logros](GUIA.md)
+
 ## Agradecimientos
 
 - **Traducción original:** [Gross](https://steamcommunity.com/sharedfiles/filedetails/?id=2818582538) (guía de Steam, también publicada en [TraduSquare](https://web.archive.org/web/20250215095601/https://tradusquare.es/proyectos/iceblue/)), hecha con Translator++. Agradecimientos suyos a Orca (alojamiento del parche y ayuda con las imágenes) y a MudarraP (testeo y depuración de versiones posteriores).
