@@ -3435,7 +3435,7 @@ Window_SavefileList.prototype.drawFileId = function(id, x, y, width, height) {
     let text = TextManager.file + ' ' + id;
     if (TSR.Save.autosave_locked) {
       if (id === 1) {
-        text = 'Auto Save';
+        text = 'Autoguardado';
       } else {
         text = TextManager.file + ' ' + (id - 1);
       }

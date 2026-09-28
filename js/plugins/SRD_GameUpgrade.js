@@ -864,29 +864,29 @@ SceneManager.updatePackageJson = function() {
 	if(fs.existsSync(fileLoc)) {
 		let hasChanged = false;
 		const json = JSON.parse(fs.readFileSync(fileLoc));
-		if(typeof json["Ventana"] === "object") {
+		if(typeof json["window"] === "object") {
 			const keys = Object.keys(_.windowSettings);
 			for(let i = 0; i < keys.length; i++) {
 				if(keys[i] === "height") {
 					const offset = _.windowSettings["resizable"] === false ? 2 : 0;
-					if(_.windowSettings["height"] - offset !== json["Ventana"]["height"]) {
-						json["Ventana"] = _.windowSettings;
+					if(_.windowSettings["height"] - offset !== json["window"]["height"]) {
+						json["window"] = _.windowSettings;
 						hasChanged = true;
 						break;
 					}
-				} else if(json["Ventana"][keys[i]] !== _.windowSettings[keys[i]]) {
-					json["Ventana"] = _.windowSettings;
+				} else if(json["window"][keys[i]] !== _.windowSettings[keys[i]]) {
+					json["window"] = _.windowSettings;
 					hasChanged = true;
 					break;
 				}
 			}
 		} else {
-			json["Ventana"] = _.windowSettings;
+			json["window"] = _.windowSettings;
 			hasChanged = true;
 		}
 		if(hasChanged) {
 			if(_.windowSettings['resizable'] === false) {
-				json["Ventana"]["height"] -= 2;
+				json["window"]["height"] -= 2;
 			}
 			fs.writeFileSync(fileLoc, JSON.stringify(json, 4));
 			alert("Package.json has been updated! Restart the game to see the changes!");
